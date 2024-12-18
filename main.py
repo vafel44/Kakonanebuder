@@ -5,7 +5,7 @@ from copy import deepcopy
 RES = WIDTH, HEIGHT = 1600, 900
 TILE = 30
 W, H = WIDTH // TILE, HEIGHT // TILE
-FPS = 20
+FPS = 15
 
 
 pygame.init()
